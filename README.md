@@ -17,10 +17,11 @@ Atualmente, estou solidificando minha base em programação. 💻 Simbora codar!
     <img align="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
 </div></br>
 
-![Diego Rair's GitHub stats](https://github-readme-stats.vercel.app/api?username=diego-r-alves&show_icons=true&theme=merko)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diego-r-alves&theme=blue-green&hide_progress=true)
-
+<p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=diego-r-alves&show_icons=true&theme=merko" alt="Diego Rair's GitHub stats" style="max-width: 200px;"/>
+    
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diego-r-alves&theme=blue-green&hide_progress=true" alt="Top Langs" style="max-width: 200px;"/>
+</p>
 
 
 <h3>Ofensiva - Commits 🔥</h3>
