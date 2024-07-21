@@ -1,4 +1,4 @@
-### Olá!🖐️ 
+<h1>Olá, mundo!🖐️</h1>
 
 Eu sou Diego Rair, apaixonado por tecnologia e programação! 🚀 
 Atualmente, estou solidificando minha base em programação. 💻 Simbora codar! ✨
@@ -8,7 +8,7 @@ Atualmente, estou solidificando minha base em programação. 💻 Simbora codar!
 
 
 
-### Tecnologias que estou utilizando 🛠️
+<h3>Tecnologias que estou utilizando 🛠️</h3>
 
 <div style="display: inline_block"></br>
     <img align="center" alt="html5" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
@@ -23,7 +23,7 @@ Atualmente, estou solidificando minha base em programação. 💻 Simbora codar!
 
 
 
-### Ofensiva - Commits 🔥
+<h3>Ofensiva - Commits 🔥</h3>
 Eu estou comprometido a manter minha sequência de dias com commits para garantir meu progresso contínuo na programação. 🚀
 
 
