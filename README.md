@@ -26,5 +26,7 @@ Atualmente, estou solidificando minha base em programação. 💻 Simbora codar!
 <h3>Ofensiva - Commits 🔥</h3>
 Eu estou comprometido a manter minha sequência de dias com commits para garantir meu progresso contínuo na programação. 🚀
 
+</br> 
+</br>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=diego-r-alves&theme=dark&locale=pt_BR)](https://git.io/streak-stats)
